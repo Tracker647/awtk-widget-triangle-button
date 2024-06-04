@@ -1,0 +1,6 @@
+LIBRARY   triangle_button
+EXPORTS
+    triangle_button_register
+    triangle_button_supported_render_mode
+    triangle_button_create
+    triangle_button_cast

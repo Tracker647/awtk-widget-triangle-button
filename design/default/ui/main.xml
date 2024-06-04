@@ -1,0 +1,4 @@
+<window theme="main" move_focus_prev_key="up" move_focus_next_key="down" name="main">
+  <triangle_button x="330" y="278" name="triangle_button" w="14" h="40" is_left="true" style:normal:bg_color="#ADB8C9" style:pressed:bg_color="#00FFFF"/>
+  <triangle_button x="364" y="278" name="triangle_button" w="14" h="40" is_left="false" style:normal:bg_color="#ADB8C9" style:pressed:bg_color="#00FFFF"/>
+</window>

@@ -1,0 +1,7 @@
+<triangle_button>
+  <style name="default" bg_color="#ADB8C9">
+    <normal font_size="32" text_color="#000000"/>
+    <over/>
+    <pressed bg_color="#00C2FF" font_size="32" text_color="#000000"/>
+  </style>
+</triangle_button>

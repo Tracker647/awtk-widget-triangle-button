@@ -41,6 +41,16 @@ typedef struct _triangle_button_t {
 } triangle_button_t;
 
 /**
+ * @event {pointer_event_t} EVT_CLICK
+ * 点击事件。
+ */
+
+/**
+ * @event {pointer_event_t} EVT_LONG_PRESS
+ * 长按事件。
+ */
+
+/**
  * @method triangle_button_create
  * 创建triangle_button对象
  * @annotation ["constructor", "scriptable"]

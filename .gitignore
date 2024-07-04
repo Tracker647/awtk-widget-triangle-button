@@ -9,6 +9,7 @@
 *.exe
 *.os
 *.pyc
+res
 .sconsign.dblite
 lua/demo1
 lua/lftk_run

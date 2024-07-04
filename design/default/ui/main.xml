@@ -1,4 +1,5 @@
 <window theme="main" move_focus_prev_key="up" move_focus_next_key="down" name="main">
-  <triangle_button x="330" y="278" name="triangle_button" w="14" h="40" is_left="true" style:normal:bg_color="#ADB8C9" style:pressed:bg_color="#00FFFF"/>
-  <triangle_button x="364" y="278" name="triangle_button" w="14" h="40" is_left="false" style:normal:bg_color="#ADB8C9" style:pressed:bg_color="#00FFFF"/>
+  <triangle_button x="243" y="278" name="triangle_button1" w="14" h="40" is_left="true" style:normal:bg_color="#ADB8C9" style:pressed:bg_color="#00FFFF"/>
+  <triangle_button x="453" y="278" name="triangle_button2" w="14" h="40" is_left="false" style:normal:bg_color="#ADB8C9" style:pressed:bg_color="#00FFFF"/>
+  <label name="label" x="275" y="284" w="160" h="28" text="Label"/>
 </window>

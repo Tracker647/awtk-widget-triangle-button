@@ -91,7 +91,18 @@
         }
       }
     ],
-    "events": [],
+    "events": [
+      {
+        "name": "EVT_CLICK",
+        "desc": "点击事件。",
+        "type": "pointer_event_t"
+      },
+      {
+        "name": "EVT_LONG_PRESS",
+        "desc": "长按事件。",
+        "type": "pointer_event_t"
+      }
+    ],
     "properties": [
       {
         "name": "is_left",
